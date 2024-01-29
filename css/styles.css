@@ -1,0 +1,58 @@
+body{
+    background-color:beige;
+}
+    /* กำหนดไข่ปลา */
+    hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    width: 5%;
+
+
+    }
+
+    h1{
+        color:green
+    }
+
+    p{
+        color:orange
+      
+
+    }
+
+    img{
+        background-color:lightblue
+    }
+  /*2. class selector*/
+ .broccoli {
+    background-color:yellow 
+ }
+  .circular{
+    border-radius:100% ;
+  }
+
+
+  #heading{
+    color:red
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
